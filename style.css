@@ -6,7 +6,7 @@
 }
 body {
   height: 100vh;
-  background: linear-gradient(135deg, #8052ec, #d161ff);
+  background: linear-gradient(360deg, #141e30, #243b55);
 }
 html {
   font-size: 16px;
@@ -38,8 +38,8 @@ html {
   font-size: 1.3em;
   padding: 1em;
   border-radius: 8px;
-  background-color: #0a0027;
-  color: #ffffff;
+  background-color: #ffeb3b;
+  color: #000;
   border: none;
   position: relative;
   margin: 1.5em auto 0 auto;
